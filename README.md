@@ -15,3 +15,5 @@ the results onto the screen.
 - Unzip in your system
 - Create the executable file from a C++ compiler
 - Put the executable file in the same folder as the SVG documents before running
+
+![alt text](https://user-images.githubusercontent.com/44111901/52643051-c7399c80-2f0e-11e9-8385-b56c4e4e9ba6.PNG)
